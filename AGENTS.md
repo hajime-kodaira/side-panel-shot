@@ -1,4 +1,4 @@
-# Side Panel Shot - Agent Guide (`agent.md`)
+# Side Panel Shot - Agent Guide (`AGENTS.md`)
 
 このドキュメントは、AI コーディングエージェントがこのリポジトリを理解し、既存の設計思想や規約に沿って安全に変更を加えるためのガイドです。
 
