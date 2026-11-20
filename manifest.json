@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Side Panel Shot",
-  "version": "2026.11.0",
+  "version": "2026.11.1",
   "description": "ページ内のサイドパネルなどのスクロール領域を、見えていない部分も含めて1枚の画像として保存します。",
   "permissions": ["activeTab", "scripting", "clipboardWrite"],
   "background": {
